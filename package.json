@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mariolazzari/intro-mongo#readme",
   "dependencies": {
-    "mongoose": "^8.9.5"
+    "mongoose": "^8.22.1"
   }
 }
